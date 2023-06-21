@@ -4,22 +4,22 @@
 > 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
-* [在线阅读](https://jdoc.apachecn.org)
+* [在线阅读](https://jdoc.flygon.net)
 ## 下载
 
 ### Docker
 
 ```
-docker pull apachecn0/apachecn-java-docs-zh
-docker run -tid -p <port>:80 apachecn0/apachecn-java-docs-zh
+docker pull apachecn0/flygon-java-docs-zh
+docker run -tid -p <port>:80 apachecn0/flygon-java-docs-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g apachecn-java-docs-zh
-apachecn-java-docs-zh <port>
+npm install -g flygon-java-docs-zh
+flygon-java-docs-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
